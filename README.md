@@ -1,5 +1,5 @@
 # Comment l'utiliser
-Mettez cette resource sur votre Serveur dans FiveM, allez dans votre server.cfg et veuillez noter
+Mettez cette resource dans vos `ressources` sur votre `Serveur FiveM`, allez dans votre `server.cfg` et veuillez noter
 - start JobsCore
 # Discord d'entraide
 - Kadir#6400
