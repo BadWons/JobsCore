@@ -1,5 +1,5 @@
 # Conditions pour utilisation
-Avoir le framework ESX :
+Avoir le framework ESX
 - Basic
 - California
 # Comment l'utiliser
