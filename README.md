@@ -1,7 +1,5 @@
 # Conditions pour utilisation
-Avoir le framework ESX
-- Basic
-- California
+Avoir le framework ESX basic
 # Comment l'utiliser
 Mettez cette resource dans vos `ressources` sur votre `Serveur FiveM`, allez dans votre `server.cfg` et veuillez noter
 - start JobsCore
